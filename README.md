@@ -6,7 +6,6 @@ This is a program of overflow in c++
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
     char a=128;
